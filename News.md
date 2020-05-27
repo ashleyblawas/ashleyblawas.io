@@ -8,15 +8,15 @@ layout: default
 
 ***
 
-<iframe width="420" height="315"
-src=""https://www.youtube.com/embed/Jxb0ajIndrE"">
-</iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Jxb0ajIndrE"></iframe>
 
 https://www.coastalreview.org/2019/07/duke-marine-lab-opens-doors-to-visitors/
 
 https://www.boem.gov/newsroom/studying-sperm-whales-and-beaked-whales-atlantic-maps-project
 
 https://bassconnections.duke.edu/ashley-blawas
+
+https://dolphinquest.com/news/dolphin-quest-oahu-hosts-university-level-scientists-to-help-save-dolphin-species/
 
 
 
