@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Research
+## [**Home**](./index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html)
 
-_yay_
+***
 
-[back](./)
