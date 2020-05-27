@@ -2,8 +2,8 @@
 layout: default
 ---
 
-#CV
+# CV
 
-_yay_
+
 
 [back](./)
