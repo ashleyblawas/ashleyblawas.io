@@ -20,8 +20,8 @@ In addition to my research, I have focused on developing my teaching abilities a
 
 ### Get in Touch:
 
-ashley.blawas@gmail.com
-ashley.blawas@duke.edu
+<a href="mailto:someone@yoursite.com">ashleyblawas@gmail.com</a>  
+<a href="mailto:someone@yoursite.com">ashley.blawas@duke.edu</a>  
 
 135 Duke Marine Lab Road
 Beaufort, NC 28516
