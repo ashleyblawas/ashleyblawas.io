@@ -1,5 +1,9 @@
 ---
-layout: deafault
+layout: default
 ---
 
-#Research
+# Research
+
+_yay_
+
+[back](./)
