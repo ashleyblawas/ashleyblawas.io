@@ -8,7 +8,9 @@ layout: default
 
 ***
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Jxb0ajIndrE"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Jxb0ajIndrE">
+</iframe>
+
 
 https://www.coastalreview.org/2019/07/duke-marine-lab-opens-doors-to-visitors/
 
