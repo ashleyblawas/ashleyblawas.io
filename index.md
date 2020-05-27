@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-## [**Home**](./another-page.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./another-page.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./another-page.html)
+## [**Home**](./another-page.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html)
 
 ***
 
