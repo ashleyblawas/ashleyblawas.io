@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [**Home**](./another-page.html)     [**CV**](./another-page.html)     [**Research**](./another-page.html)
+# [**Home**](./another-page.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./another-page.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./another-page.html)
 
 ***
 
