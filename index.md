@@ -8,15 +8,13 @@ layout: default
 
 ***
 
-### About Me: 
-
-I am currently a **Ph.D. student** in Marine Science & Conservation at the Duke University Marine Laboratory. 
+**About Me:**I am currently a **Ph.D. student** in Marine Science & Conservation at the Duke University Marine Laboratory. 
 
 My dissertation research focuses on the physiological adaptations that enable marine mammals to dive for extended periods of time underwater. By measuring both physiological rates and related molecular markers for during resting and active behaviors, I aim to understand how marine mammals adjust their cardiovascular and metabolic processes on a fine-scale to support differing needs during dive recovery and preparation at the surface versus an extended dive. As marine mammals are forced to adapt to changing oceans in the face of climate change, increasing ocean noise, and higher boat traffic, it will become more critical to understand the physiological thresholds on diving behavior. 
 
 In addition to my research, I have focused on developing my teaching abilities as part of my graduate studies. I am currently pursuing a Certificate in College Teaching during which I will take courses in pedagogy, course design, and college teaching.  I have experience creating and giving lectures on topics within the field of physiology to a diverse array of students from specialized courses like Comparative Physiology of Marine Animals to general courses like Marine Megafauna. I have also prioritized improving my science communication skills through outreach programs like Girls Exploring Science and Technology and Skype a Scientist. 
 
-### Get in Touch:
+**Get in Touch:**
 
 <a href="mailto:someone@yoursite.com">ashleyblawas@gmail.com</a>  
 <a href="mailto:someone@yoursite.com">ashley.blawas@duke.edu</a>  
