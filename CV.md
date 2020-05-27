@@ -9,6 +9,6 @@ layout: default
 ***
 A copy of my CV can be downloaded here. If you have any trouble viewing the document, please email me for a copy. 
 
-<p>Open a PDF file <a href={{ site.cv default: site.github.repository_name }}</a>
+<p>Open a PDF Read more [here](./assets/docs/ABLAWAS_CV.pdf) <\p>
 
 
