@@ -8,7 +8,7 @@ layout: default
 
 ***
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Jxb0ajIndrE">
+<iframe width="500" height="350" src="https://www.youtube.com/embed/Jxb0ajIndrE">
 </iframe>
 
 
