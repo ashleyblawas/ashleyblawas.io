@@ -2,5 +2,8 @@
 layout: default
 ---
 
+***
 
-# News 
+## [**Home**](./) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**News**](./News.html)
+
+***
