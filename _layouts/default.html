@@ -19,9 +19,23 @@
         {% if site.logo %}
           <center><img src="{{site.logo | relative_url}}" alt="Logo" /></center>
         {% endif %}
-        {% if site.gs %}
-          <center><img src="{{site.gs | relative_url}}" alt="GS" /></center>
-        {% endif %}
+        
+         <div class="container">
+           {% if site.gs %}
+            <img src="{{site.gs | relative_url}}" alt="GS" height="200" width="200" />
+           {% endif %}
+        </div>
+        <div class="container">
+            {% if site.gs %}
+            <img src="{{site.gs | relative_url}}" alt="GS" height="200" width="200" />
+           {% endif %}
+        </div>
+        <div class="container">
+            {% if site.gs %}
+            <img src="{{site.gs | relative_url}}" alt="GS" height="200" width="200" />
+           {% endif %}
+        </div>
+        </div>
 
        
         <!-- {% if site.github.is_project_page %}
