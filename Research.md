@@ -14,6 +14,6 @@ SeaWorld, Oceanografic
 
 Sarasota Dolphin Research Program
 
-Song of the Whale
+<a href="https://sites.duke.edu/oceansmart/">Marine Mammal Passive Acoustics and Spatial Ecology</a>
 
 Duke Cancer Research Insitute
