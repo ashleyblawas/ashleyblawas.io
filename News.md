@@ -35,7 +35,7 @@ Check out <a href="https://www.boem.gov/newsroom/studying-sperm-whales-and-beake
 
 
 ***
-<a class="twitter-timeline" href="https://twitter.com/a_blaw?ref_src=twsrc%5Etfw">Tweets by a_blaw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="320" data-height="500" href="https://twitter.com/a_blaw?ref_src=twsrc%5Etfw">Tweets by a_blaw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
