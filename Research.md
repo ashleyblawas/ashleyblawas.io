@@ -13,7 +13,7 @@ layout: default
     <span style=""><b>Cardiorespiratory physiology of bottlenose dolphins.</b>Examining the relationship with respiratory function and cardiovascular parameters.</span>
 </div>
 
-<br/><br/>
+&nbsp;
 ---
  
  <div class="box">
