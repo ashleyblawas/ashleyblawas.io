@@ -14,6 +14,7 @@ layout: default
 </div>
 
 &nbsp;
+
 ---
  
  <div class="box">
