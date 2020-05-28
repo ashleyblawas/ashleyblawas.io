@@ -8,19 +8,17 @@ layout: default
 
 ***
 
-
+<div>
 <img width="40%" height="40%" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" verticalalign:middle align="left" hspace="20">
-    
-<p><b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship between respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu.</p>
-
+<b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship between respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu.
+</div>
   
 <hr>
 
+<div>   
 <img width="60%" height="60%" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf" align="left" hspace="20">
-
-&nbsp;
-
-<p><b>Diving patterns of cryptic, deep diving cetaceans.</b> Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a></p>
+<span><b>Diving patterns of cryptic, deep diving cetaceans.</b> Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a></span>
+</div>
 
 
 
