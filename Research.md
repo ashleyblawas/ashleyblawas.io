@@ -9,10 +9,9 @@ layout: default
 ***
 
 <div id="wrapper">
-<center>
+
 <img height="300" align="top" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve">
-</center>
-        <div id="textbox">
+      <div id="textbox">
       <div id="content">
         <p>
           Dolphin Quest Oahu
