@@ -13,9 +13,8 @@ layout: default
 **Cardiorespiratory physiology of bottlenose dolphins.** Examining the relationship with respiratory function and cardiovascular parameters.
 
  
-<center>
-<a href="https://sites.duke.edu/oceansmart/">Marine Mammal Passive Acoustics and Spatial Ecology</a>
 <img height="300" align="top" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf">
-</center>
+**Diving patterns of cryptic, deep diving cetaceans.** Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a>
+
 
 
