@@ -9,7 +9,7 @@ layout: default
 ***
 
 Dolphin Quest Oahu
-<img src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve">
+<img "height=300" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve">
 
 SeaWorld, Oceanografic
 
