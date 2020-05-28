@@ -7,7 +7,7 @@ layout: default
 ## [**Home**](./) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**News**](./News.html)
 
 ***
-
+<center>
 <div id="wrapper">
 
 <img height="300" align="top" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve">
@@ -19,6 +19,7 @@ layout: default
       </div>
     </div>
   </div>
+</center>
 
 <center>
 <a href="https://sites.duke.edu/oceansmart/">Marine Mammal Passive Acoustics and Spatial Ecology</a>
