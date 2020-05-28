@@ -9,7 +9,8 @@ layout: default
 ***
 
 
-<img height="300" align="top" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left"/>**Cardiorespiratory physiology of bottlenose dolphins.** <p>Examining the relationship with respiratory function and cardiovascular parameters.</p>
+<img height="300" align="top" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left"/>
+**Cardiorespiratory physiology of bottlenose dolphins.** <p>Examining the relationship with respiratory function and cardiovascular parameters.</p>
 
  
 <center>
