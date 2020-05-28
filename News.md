@@ -31,8 +31,8 @@ Check out <a href="https://www.boem.gov/newsroom/studying-sperm-whales-and-beake
 
 
 ***
+<a href="https://dolphinquest.com/news/dolphin-quest-oahu-hosts-university-level-scientists-to-help-save-dolphin-species/">Our team of collaborators from Duke and University of Michigan developing conservation tools at Dolphin Quest Oahu.</a>
 
-https://dolphinquest.com/news/dolphin-quest-oahu-hosts-university-level-scientists-to-help-save-dolphin-species/
 
 
 
