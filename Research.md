@@ -14,7 +14,8 @@ layout: default
 <p><b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship between respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu.</p>
 
 <hr>
- 
+ &nbsp;
+ &nbsp;
  
 <img width="60%" height="60%" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf" align="left" hspace="20">
 
