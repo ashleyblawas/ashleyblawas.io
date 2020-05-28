@@ -7,7 +7,7 @@ layout: default
 ## [**Home**](./) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**News**](./News.html)
 
 ***
-
+<center>
 Dolphin Quest Oahu
 
 <img height="300" align="top" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve">
@@ -21,3 +21,4 @@ Sarasota Dolphin Research Program
 
 
 Duke Cancer Research Insitute
+</center>
