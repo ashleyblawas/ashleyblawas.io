@@ -10,7 +10,7 @@ layout: default
 
 <div class="box">
     <img height="300"  src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left" hspace="20">
-    <span style=""><b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship with respiratory function and cardiovascular parameters.</span>
+    <span style=""><b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship with respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu. </span>
 </div>
 
 &nbsp;
