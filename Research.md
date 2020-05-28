@@ -8,9 +8,11 @@ layout: default
 
 ***
 
+<div class="box">
+    <img height="300"  src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left" hspace="20">
+    <span style="">**Cardiorespiratory physiology of bottlenose dolphins.** Examining the relationship with respiratory function and cardiovascular parameters.</span>
+</div>
 
-<img height="300"  src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left" hspace="20"/>
-**Cardiorespiratory physiology of bottlenose dolphins.** Examining the relationship with respiratory function and cardiovascular parameters.
 
 ---
  
