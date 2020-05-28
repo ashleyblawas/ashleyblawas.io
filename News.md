@@ -14,7 +14,7 @@ The Atlantic Behavioral Response Study - a project that several of my labmates a
 </iframe>
 
 
-https://www.coastalreview.org/2019/07/duke-marine-lab-opens-doors-to-visitors/
+<a href="https://www.coastalreview.org/2019/07/duke-marine-lab-opens-doors-to-visitors/">The marine mammal labs host a DTAG station at the Duke Marine Lab Open House!</a>
 
 Check out MAPS, a collaboration which I have worked for as a Research Assistant for the past two years, that aims to understand the behavior of cryptic whales off the coast of North Carolina and help BOEM plan energy development proejcts that minimize potential impacts. 
 
