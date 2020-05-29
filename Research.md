@@ -16,18 +16,12 @@ layout: default
 </div>
 
 ***
+
 <div style="Margin:20px;">
             <img width="60%" height="60%" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf" align="left" hspace="20">
             <p style="Margin:0; font:16px/1.25 text-align:justify;">
                <b>Diving patterns of cryptic, deep diving cetaceans.</b> Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a>
             </p>
-</div>
-
-***
-
-<div>   
- <img width="60%" height="60%" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf" align="left" hspace="20">
- <span><b>Diving patterns of cryptic, deep diving cetaceans.</b> Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a></span>
 </div>
 
 
