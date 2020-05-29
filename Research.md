@@ -8,6 +8,14 @@ layout: default
 
 ***
 
+<div style="Margin:20px;">
+            <img width="40%" height="40%" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left" hspace="20">
+            <p style="Margin:0; font:16px/1.25 text-align:justify;">
+                <b>Cardiorespiratory physiology of bottlenose dolphins.</b> Examining the relationship between respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu.
+            </p>
+</div>
+
+***
 
 <div>
 <img width="40%" height="40%" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left" hspace="20">
