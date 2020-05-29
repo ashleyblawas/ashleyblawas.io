@@ -15,11 +15,7 @@ layout: default
             </p>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<BR clear="left">
 
 ***
 
