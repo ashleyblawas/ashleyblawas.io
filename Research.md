@@ -4,9 +4,6 @@ layout: default
 
 ***
 
-## [**Home**](./) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**News**](./News.html)
-
-***
 
 <div>
             <img style="margin-right:20px; margin-bottom:10px;" width="40%" height="40%" src="https://drive.google.com/uc?id=1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve" align="left">
