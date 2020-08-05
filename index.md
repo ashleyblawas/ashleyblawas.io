@@ -5,9 +5,6 @@ layout: default
 ***
 
 
-## [**Home**](./) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**CV**](./CV.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Research**](./Research.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**News**](./News.html)
-
-
 ***
 
 I am currently a Ph.D. student in Marine Science & Conservation in the <a href="https://sites.nicholas.duke.edu/nowacek/">Nowacek Lab </a> at the <a href="https://nicholas.duke.edu/marinelab">Duke University Marine Laboratory</a>. 
