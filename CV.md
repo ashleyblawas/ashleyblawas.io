@@ -2,7 +2,6 @@
 layout: default
 ---
 
-***
 
 
 A copy of my CV can be downloaded here. If you have any trouble viewing the document, please email me for a copy. 
