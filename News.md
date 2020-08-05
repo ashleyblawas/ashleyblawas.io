@@ -2,7 +2,6 @@
 layout: default
 ---
 
-***
 
 
 The Atlantic Behavioral Response Study - a project that several of my labmates and my advisor have contributed to - aims to understand the respones of beaked whales to mid-frequency active sonar.
