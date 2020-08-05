@@ -13,3 +13,9 @@ In addition to my research, I have focused on developing my teaching abilities a
 
 You can reach me either at <a href="mailto:ashleyblawas@gmail.com">ashleyblawas@gmail.com</a> or <a href="mailto:ashley.blawas@duke.edu">ashley.blawas@duke.edu</a>.
 
+
+<br>
+<br>
+<br>
+
+<small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
