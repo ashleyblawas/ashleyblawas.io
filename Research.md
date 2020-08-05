@@ -12,6 +12,7 @@ layout: default
                   Cardiorespiratory coupling in cetaceans; a physiological strategy to improve gas exchange? A. Fahlman, S. Miedler, L. Marti-Bonmati, D. Ferrero Fernandez, P.                     Muñoz Caballero, J. Arenarez, J. Rocho-Levine, T. Robeck, A. Blawas. Journal of Experimental Biology 2020. <a href="https://jeb.biologists.org/content/early/2020/07/16/jeb.226365">doi: 10.1242/jeb.226365</a></p>
 </div>
 <BR clear="left">
+            
 ***
 
 <div>
