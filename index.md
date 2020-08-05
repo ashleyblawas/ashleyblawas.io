@@ -2,7 +2,6 @@
 layout: default
 ---
 
-***
 
 
 I am currently a Ph.D. student in Marine Science & Conservation in the <a href="https://sites.nicholas.duke.edu/nowacek/">Nowacek Lab </a> at the <a href="https://nicholas.duke.edu/marinelab">Duke University Marine Laboratory</a>. 
