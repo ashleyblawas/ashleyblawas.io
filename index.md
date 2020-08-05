@@ -5,8 +5,6 @@ layout: default
 ***
 
 
-***
-
 I am currently a Ph.D. student in Marine Science & Conservation in the <a href="https://sites.nicholas.duke.edu/nowacek/">Nowacek Lab </a> at the <a href="https://nicholas.duke.edu/marinelab">Duke University Marine Laboratory</a>. 
 
 My dissertation research focuses on the physiological adaptations that enable marine mammals to dive for extended periods of time underwater. By measuring both physiological rates and related molecular markers for during resting and active behaviors, I aim to understand how marine mammals adjust their cardiovascular and metabolic processes on a fine-scale to support differing needs during dive recovery and preparation at the surface versus an extended dive. As marine mammals are forced to adapt to changing oceans in the face of climate change, increasing ocean noise, and higher boat traffic, it will become more critical to understand the physiological thresholds on diving behavior. 
