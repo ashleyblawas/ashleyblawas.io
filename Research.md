@@ -11,7 +11,7 @@ layout: default
              <p><b>Publications:</b><br>
                   Cardiorespiratory coupling in cetaceans; a physiological strategy to improve gas exchange? A. Fahlman, S. Miedler, L. Marti-Bonmati, D. Ferrero Fernandez, P.                     Muñoz Caballero, J. Arenarez, J. Rocho-Levine, T. Robeck, A. Blawas. Journal of Experimental Biology 2020. <a                          href="https://jeb.biologists.org/content/early/2020/07/16/jeb.226365">doi: 10.1242/jeb.226365</a><br><br>              
                   Conditioned Variation in Heart Rate During Static Breath-Holds in the Bottlenose Dolphin (<em>Tursiops truncatus</em>). A, Fahlman, B, Cozzi, M. Manley, S. Jabas, M. Malik, A. Blawas and V.M. Janik. Frontiers in Physiology 2020. <a href="https://www.frontiersin.org/articles/10.3389/fphys.2020.604018/full">doi: 10.3389/fphys.2020.604018</a><br><br>                    
-                  Respiratory sinus arrhythmia and submersion bradycardia in bottlenose dolphins (<em>Tursiops truncatus</em>). A.M. Blawas, D.P. Nowacek, A.S. Allen, J. Rocho-Levine,                    A. Fahlman. Journal of Experimental Biology 2020. <a href="https://jeb.biologists.org/content/224/1/jeb234096">doi: 10.1242/jeb.234096</a></p>
+                  Respiratory sinus arrhythmia and submersion bradycardia in bottlenose dolphins (<em>Tursiops truncatus</em>). A.M. Blawas, D.P. Nowacek, A.S. Allen, J. Rocho-Levine, A. Fahlman. Journal of Experimental Biology 2020. <a href="https://jeb.biologists.org/content/224/1/jeb234096">doi: 10.1242/jeb.234096</a></p>
 </div>
 <BR clear="left">
             
