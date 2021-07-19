@@ -21,7 +21,7 @@ Scaling of heart rate with breathing frequency and body mass in cetaceans. A.M. 
 
 <div>
             <img style="margin-right:20px; margin-bottom:10px;" width="65%" height="65%" src="https://drive.google.com/uc?id=1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf" align="left">
-            <h3 style="Margin:0; font:16px/1.25 text-align:justify;">
+            <h3 style="Margin:0; font:20px/1.25 text-align:justify;">
                Diving patterns of cryptic, deep diving cetaceans.</h3> <p>Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a>
             </p>
 </div>
