@@ -1,1 +1,4 @@
 ## Teaching Statement
+
+
+In progress!
