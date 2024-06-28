@@ -10,8 +10,11 @@ As I develop as a teacher, I am excited to continue to work with students to ens
 
 In college teaching, it is necessary to establish a classroom where students feel comfortable and energized to learn. Therefore, I will work with the students to establish classroom norms so students can maximize their engagement with the material. I will also create mechanisms for regular feedback from the students to best match my teaching with their learning. Ultimately, I hope to create a classroom where students are inspired to learn about the functioning of life around them and where I can provide them with the tools to continue scientific inquiry in their futures beyond the classroom.  
 
+## Courses Taught
+
+
 ## Example Course Syllabus
 
 As a part of the Certificate in College Teaching I obtained as a PhD student at Duke Univeristy I developed an example syllabus for a course in Comparative Physiology of Animals. 
 
-<iframe src="https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/view" width="640" height="680"></iframe>
+<iframe src="https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/preview" width="640" height="680"></iframe>
