@@ -12,9 +12,12 @@ In college teaching, it is necessary to establish a classroom where students fee
 
 ## Courses Taught
 
+* Co-Instructor for Biologging & Biotelemetry at Stanford
+* Teaching Assistant for Marine Megafauna, guest lecturer for Marine Megafauna & Biology of Marine Mammals
+
+
+
 
 ## Example Course Syllabus
 
-As a part of the Certificate in College Teaching I obtained as a PhD student at Duke Univeristy I developed an example syllabus for a course in Comparative Physiology of Animals. 
-
-<iframe src="https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/preview" width="640" height="680"></iframe>
+As a part of the Certificate in College Teaching I obtained as a PhD student at Duke Univeristy I developed an (example syllabus)[https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/view] for a course in Comparative Physiology of Animals. 
