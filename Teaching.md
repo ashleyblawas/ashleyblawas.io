@@ -27,7 +27,6 @@ In college teaching, it is necessary to establish a classroom where students fee
       <li>Marine Megafauna</li>
       <li>Biology of Marine Mammals</li>
     </ul>
-  </li>
 </ul>
 
 
