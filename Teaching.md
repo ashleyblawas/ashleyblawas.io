@@ -16,7 +16,7 @@ In college teaching, it is necessary to establish a classroom where students fee
 <ul>
   <li> <b>Co-Instructor:</b> </li>
       <ul>
-      <li> (Bio-logging & Bio-telemetry)[https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Oceans+14H&collapse=], Stanford University (Spring 2024) </li>
+      <li> <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Oceans+14H&collapse=">Bio-logging & Bio-telemetry</a>, Stanford University (Spring 2024) </li>
     </ul>
   <li> <b> Teaching Assistant:</b> </li>
       <ul>
