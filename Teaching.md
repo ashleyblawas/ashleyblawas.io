@@ -20,7 +20,7 @@ In college teaching, it is necessary to establish a classroom where students fee
     </ul>
   <li> <b> Teaching Assistant:</b> </li>
       <ul>
-      <li> (Marine Megafauna)[https://biology.duke.edu/courses/marine-megafauna-0], Duke University (Spring 2022) </li>
+      <li> <a href="https://biology.duke.edu/courses/marine-megafauna-0">Marine Megafauna</a>, Duke University (Spring 2022) </li>
       </ul>
   <li> <b>Guest Lecturer:</b> </li>
     <ul>
