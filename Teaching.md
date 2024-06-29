@@ -12,22 +12,22 @@ In college teaching, it is necessary to establish a classroom where students fee
 
 ## Courses Taught
 
-* **Guest Lecturer:** Marine Megafauna
-Biology of Marine Mammals
 
 <ul>
-  <li> **Co-Instructor:**  </li>
+  <li> <b>Co-Instructor:</b> </li>
       <ul>
-      <li> Biologging & Biotelemetry, Stanford University</li>
+      <li> Biologging & Biotelemetry, Stanford University (Spring 2024) </li>
     </ul>
-  <li> **Teaching Assistant:** Marine Megafauna </li>
-  <li>Third item
+  <li> <b>Teaching Assistant:</b> </li>
+      <ul>
+      <li> Marine Megafauna, Duke University (Spring 2022) </li>
+      </ul>
+  <li> <b>Guest Lecturer:</b> </li>
     <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
+      <li>Marine Megafauna</li>
+      <li>Biology of Marine Mammals</li>
     </ul>
   </li>
-  <li>Fourth item</li>
 </ul>
 
 
