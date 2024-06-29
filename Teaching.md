@@ -24,8 +24,9 @@ In college teaching, it is necessary to establish a classroom where students fee
       </ul>
   <li> <b>Guest Lecturer:</b> </li>
     <ul>
-      <li>Marine Megafauna</li>
-      <li>Biology of Marine Mammals</li>
+      <li>Marine Megafauna, Duke University </li>
+      <li>Biology of Marine Mammals, Duke University </li>
+      <li>Comparative Physiology of Marine Animals, Duke University </li>
     </ul>
 </ul>
 
