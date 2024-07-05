@@ -17,16 +17,15 @@
     <div class="wrapper">
       <header>
         <center><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></center>
-        
-        
-        {% if site.logo %}
-          <center><img src="{{site.logo | relative_url}}" alt="Logo" /></center>
-        {% endif %}
 
         <p></p>
 
         <center><p>{{ site.description | default: site.github.project_tagline }}</b></center>
         
+        {% if site.logo %}
+          <center><img src="{{site.logo | relative_url}}" alt="Logo" /></center>
+        {% endif %}
+       
         <p></p>
 
         <center><div class="row">
