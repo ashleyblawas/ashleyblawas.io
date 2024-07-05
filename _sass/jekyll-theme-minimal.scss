@@ -188,8 +188,10 @@ strong {
 
 section {
   width:500px;
-  float:left;
+  float:right;
   padding-bottom:50px;
+  position: absolute;
+  left: 0;
 }
 
 small {
