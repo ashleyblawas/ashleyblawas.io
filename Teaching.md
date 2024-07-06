@@ -35,4 +35,4 @@ In college teaching, it is necessary to establish a classroom where students fee
 
 As a part of the Certificate in College Teaching I obtained as a PhD student at Duke Univeristy I developed an example syllabus for a course in Comparative Physiology of Animals. 
 
-<iframe src="https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/preview" width="500" height="600"></iframe>
+<iframe width="100%" height="600" src="https://drive.google.com/file/d/1UIaI0SeswTDsoktELIschHubVICjCOlL/preview"> </iframe>
