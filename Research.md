@@ -5,7 +5,7 @@ layout: default
 
 
 <div>
-            <img style="margin-right:20px; margin-bottom:10px;" width="40%" height="40%" src="https://drive.google.com/file/d/1ZXkyxm_hO5OUXeOAGAdH1WqiV-YscGve/view?usp=sharing" align="left">
+            <img style="margin-right:20px; margin-bottom:10px;" width="40%" height="40%" src="./assets/img/DQO2018.JPG" align="left">
             <h3 style="Margin:0; font:20px/1.25; text-align:justify;">
                 Cardiorespiratory physiology of bottlenose dolphins.</h3>
             <p>Examining the relationship between respiratory function and cardiovascular parameters. Photo courtesy of Dolphin Quest Oahu.</p>
@@ -20,7 +20,7 @@ Scaling of heart rate with breathing frequency and body mass in cetaceans. A.M. 
 ***
 
 <div>
-            <img style="margin-right:20px; margin-bottom:10px;" width="65%" height="65%" src="https://drive.google.com/file/d/1901xrWzHZu3zPPZzHnmq8ODR5PjPg6gf/view?usp=sharing" align="left">
+            <img style="margin-right:20px; margin-bottom:10px;" width="65%" height="65%" src="./assets/img/MCR2019.JPG" align="left">
             <h3 style="Margin:0; font:20px/1.25 text-align:justify;">
                Diving patterns of cryptic, deep diving cetaceans.</h3> <p>Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a>
             </p>
