@@ -3,6 +3,14 @@ layout: default
 ---
 
 
+<div>
+            <h3 style="Margin:10px; font:20px/1.25; text-align:left;">
+                Molecular and cellular adaptations to diving in bottlenose dolphins.</h3>
+            <p style="font:18px/1.25;"><b>Publications:</b><br>
+                  An integrated comparative physiology and molecular approach pinpoints mediators of breath-hold capacity in dolphins. A.M. Blawas, K.E. Ware, E. Schmaltz, L.Zheng, J. Spruance, A.S. Allen, N. West, N. Devos, D.L. Corcoran, D.P. Nowacek, W.C. Eward, A. Fahlman, J.A. Somarelli Evolution, Medicine, and Public Health. 2021. <a href="https://doi.org/10.1093/emph/eoab036">doi:10.1093/emph/eoab036</a><br><br></p>
+</div>
+            
+***
 
 <div>
             <img style="margin-right:20px; margin-bottom:10px;" width="40%" height="40%" src="./assets/img/DQO2018.JPG" align="left">
@@ -16,7 +24,6 @@ layout: default
 
 Scaling of heart rate with breathing frequency and body mass in cetaceans. A.M. Blawas , D.P. Nowacek, J. Rocho-Levine, T.R. Robeck, and A. Fahlman. Phil. Trans. R. Soc. B 2021. <a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0223">doi:10.1098/rstb.2020.0223</a></p>
 </div>
-<BR clear="left">
             
 ***
 
