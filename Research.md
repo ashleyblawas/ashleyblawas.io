@@ -24,10 +24,9 @@ Scaling of heart rate with breathing frequency and body mass in cetaceans. A.M. 
             <img style="margin-right:20px; margin-bottom:10px;" width="65%" height="65%" src="./assets/img/MCR2019.JPG" align="left">
             <h3 style="Margin:10px; font:20px/1.25 text-align:left;">
                Diving patterns of cryptic, deep diving cetaceans.</h3> <p>Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina. <a href="https://sites.duke.edu/oceansmart/">Learn more at the project webite.</a><br><br>
-               
+
 <b>Publications:</b><br>
 IN PREP. Acoustic surveys demonstrate high densities of sperm whales off the mid-Atlantic coast of the USA in winter and spring. O. Boisseaua, D. Nowacek, A. Pabst, A. Blawas, A. Clabaugh, A.Moscrop, R. McLanaghan, and J.J. Levenson. </p>
-            </p>
 </div>
 
 
