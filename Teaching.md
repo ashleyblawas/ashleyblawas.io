@@ -1,5 +1,6 @@
 ## Courses Taught
 
+
 <ul>
   <li> <b>Co-Instructor:</b> </li>
       <ul>
