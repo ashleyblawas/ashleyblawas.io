@@ -20,9 +20,9 @@
 
         <p></p>
 
-        <center><p>{{ site.description1 | default: site.github.project_tagline }}</p>
+        <center><p><span>{{ site.description1 | default: site.github.project_tagline }}</span>
           
-          <p> </p><b>{{site.description2 | default: site.github.project_tagline }}</b></p></center>
+        <span><b>{{site.description2 | default: site.github.project_tagline }}</b></span></p></center>
         
         {% if site.logo %}
           <center><img src="{{site.logo | relative_url}}" alt="Logo" /></center>

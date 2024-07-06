@@ -4,7 +4,7 @@ gs: /assets/img/gs.png
 rg: /assets/img/rg.png
 orciid: /assets/img/orciid.png
 description1: Researcher at the intersection of
-description2: Physiology, Engineering, and Marine Science
+description2: Physiology, Engineering, & Marine Science
 show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
